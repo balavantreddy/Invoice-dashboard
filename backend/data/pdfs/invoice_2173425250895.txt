@@ -1,0 +1,24 @@
+AIRLINE INVOICE
+
+Invoice Number: INV21734252
+Date: 2025-08-28
+
+PASSENGER DETAILS
+Name: PRASOON YADAV
+Passenger ID: 2173425250895
+
+INVOICE DETAILS
+Airline: AirIndia
+Amount: Rs. 15,579
+GSTIN: 29AABCU9603R1ZX
+
+PAYMENT INFORMATION
+Payment Status: Paid
+Payment Method: Credit Card
+Transaction ID: TXN68719185
+
+TERMS & CONDITIONS
+1. This is an electronic invoice and does not require a physical signature.
+2. All amounts are in Indian Rupees (INR).
+3. For any queries, contact support@airline.com
+4. GST applicable as per Indian tax regulations.
